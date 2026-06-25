@@ -1,4 +1,4 @@
-package com.msp.api_gateway;
+package com.msp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

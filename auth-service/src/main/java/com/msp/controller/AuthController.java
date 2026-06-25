@@ -15,7 +15,7 @@ import com.msp.service.AuthService;
 import jakarta.servlet.http.HttpServletRequest;
 
 @RestController
-@RequestMapping("/auth")
+@RequestMapping("/api/auth")
 public class AuthController {
 
     @Autowired
